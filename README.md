@@ -1,4 +1,6 @@
 # Netflix Data Analysis Dashboard – Excel, MySQL & Power BI
+![Netflix Dashboard First Page](https://github.com/user-attachments/assets/b691466d-ec02-4b36-8a0b-80f8388a339d)
+![Netflix Dashboard Second Page](https://github.com/user-attachments/assets/5f837e44-690b-4be9-9b79-440c01b1b83b)
 
 This end-to-end data analysis project focuses on Netflix content data. The process includes data cleaning in Excel, relational modeling in MySQL Workbench, and visualization in Power BI. The goal was to extract insights related to genres, country distribution, ratings, and content availability.
 
